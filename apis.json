@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - IBM Financial Crimes Insight for Insurance",
+	"description": "This is a repository of ibm financial crimes insight for insurance APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/ibm-financial-crimes-insight-for-insurance.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-30",
+	"url": "http://ibm-financial-crimes-insight-for-insurance.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "IBM Financial Crimes Insight for Insurance",
+			"x-api-slug": "ibm-financial-crimes-insight-for-insurance",
+			"description": "IBM&reg; Financial Crimes Insight&reg; for Insurance V3.0, formerly known as IBM Counter Fraud Management for Insurance, is now being offered as a cloud service offering. It helps organizations analyze data to determine the fraud risk of claims, medical providers, and other business entities, manage the full investigation lifecycle, and report on outcomes.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/WFS-Counter-Fraud-Technical-Level-3.png",
+			"humanURL": "https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?infotype=AN&subtype=CA&htmlfid=897/ENUS218-305&appname=USN",
+			"baseURL": "https://fcihost.ibm.com:9443//",
+			"tags": "IBM Financial Crimes Insight for Insurance",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/ibm-financial-crimes-insight-for-insurance/master/_listings/ibm-financial-crimes-insight-for-insurance/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "IBM Financial Crimes Insight for Insurance",
+	"include": [
+		{
+			"name": "IBM Financial Crimes Insight for Insurance",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/ibm-financial-crimes-insight-for-insurance/master/_listings/ibm-financial-crimes-insight-for-insurance/apis.yaml"
+		}
+	]
+}
